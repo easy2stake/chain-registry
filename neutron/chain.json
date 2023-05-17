@@ -96,6 +96,10 @@
       {
         "address": "https://neutron-rpc.lavenderfive.com",
         "provider": "Lavender.Five Nodes 🐝"
+      },
+      {
+        "address": "https://neutron-rpc.easy2stake.com",
+        "provider": "Easy 2 Stake"
       }
     ],
     "rest": [
@@ -110,6 +114,10 @@
       {
         "address": "https://neutron-api.lavenderfive.com",
         "provider": "Lavender.Five Nodes 🐝"
+      },
+      {
+        "address": "https://neutron-lcd.easy2stake.com",
+        "provider": "Easy 2 Stake"
       }
     ],
     "grpc": [
